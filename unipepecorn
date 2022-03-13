@@ -1,0 +1,4035 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 400,
+      "height": 560,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 896000,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 164.925,
+        "median": 63.75,
+        "standardDeviation": 1e-12,
+        "kurtosis": -1.26376,
+        "skewness": -0.683702,
+        "entropy": 0.558418
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "median": 255,
+        "standardDeviation": 1e-12,
+        "kurtosis": 8.192e+51,
+        "skewness": 9.375e+35,
+        "entropy": 0
+      },
+      "red": {
+        "min": 0,
+        "max": 254,
+        "mean": 144.687,
+        "median": 0,
+        "standardDeviation": 25147.1,
+        "kurtosis": -1.51391,
+        "skewness": -0.420109,
+        "entropy": 0.746014
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 118.274,
+        "median": 0,
+        "standardDeviation": 25812,
+        "kurtosis": -1.70739,
+        "skewness": 0.069532,
+        "entropy": 0.749016
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 141.739,
+        "median": 0,
+        "standardDeviation": 25529.4,
+        "kurtosis": -1.58417,
+        "skewness": -0.428238,
+        "entropy": 0.738641
+      }
+    },
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "None",
+    "delay": "3x100",
+    "iterations": 0,
+    "scene": 0,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "4d58f1ab023cc4c28f3fe10cee2718e7108c8848b11ca279893175cd4a1d5f38"
+    },
+    "profiles": {
+      "gif:xmp dataxmp": {
+        "length": 1114
+      }
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "224000",
+    "pixelsPerSecond": "1.67563MB",
+    "userTime": "0.130u",
+    "elapsedTime": "0:01.133",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.669,
+        "median": 191.25,
+        "standardDeviation": 14496.4,
+        "kurtosis": -0.808604,
+        "skewness": -1.06447,
+        "entropy": 0.253045
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 27.9075,
+        "median": 0,
+        "standardDeviation": 20459.6,
+        "kurtosis": 4.26004,
+        "skewness": 2.502,
+        "entropy": 0.498228
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.249,
+        "median": 255,
+        "standardDeviation": 12617.5,
+        "kurtosis": 10.7614,
+        "skewness": -3.43512,
+        "entropy": 0.175409
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.455,
+        "median": 255,
+        "standardDeviation": 14014.1,
+        "kurtosis": 9.63854,
+        "skewness": -3.3108,
+        "entropy": 0.168778
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.064,
+        "median": 255,
+        "standardDeviation": 10894.3,
+        "kurtosis": 16.3772,
+        "skewness": -4.17787,
+        "entropy": 0.169766
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 1,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "7dc711f0c1e7352d0472128774ae25b19d935e86890ae98aebfe1d6687b8dccd"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "387012B",
+    "userTime": "0.220u",
+    "elapsedTime": "0:01.205",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.124,
+        "median": 191.25,
+        "standardDeviation": 15067.7,
+        "kurtosis": -0.764771,
+        "skewness": -1.07938,
+        "entropy": 0.285842
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 33.3849,
+        "median": 0,
+        "standardDeviation": 22106,
+        "kurtosis": 2.78868,
+        "skewness": 2.1883,
+        "entropy": 0.559959
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.805,
+        "median": 255,
+        "standardDeviation": 12927,
+        "kurtosis": 9.68591,
+        "skewness": -3.26382,
+        "entropy": 0.200713
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.599,
+        "median": 255,
+        "standardDeviation": 14331.3,
+        "kurtosis": 8.23933,
+        "skewness": -3.07571,
+        "entropy": 0.19296
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 243.708,
+        "median": 255,
+        "standardDeviation": 10906.6,
+        "kurtosis": 16.5112,
+        "skewness": -4.18422,
+        "entropy": 0.189734
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 2,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "782c1fdcdc8185c68a3e51414fa399b184f6fc91a9f24b5a5ce779f753ca4da1"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "328663B",
+    "userTime": "0.250u",
+    "elapsedTime": "0:01.241",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.797,
+        "median": 191.25,
+        "standardDeviation": 14427,
+        "kurtosis": -0.726911,
+        "skewness": -1.09762,
+        "entropy": 0.273726
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.7593,
+        "median": 0,
+        "standardDeviation": 21640.1,
+        "kurtosis": 3.17124,
+        "skewness": 2.27403,
+        "entropy": 0.54229
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.179,
+        "median": 255,
+        "standardDeviation": 12269.9,
+        "kurtosis": 11.2774,
+        "skewness": -3.46093,
+        "entropy": 0.192358
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.375,
+        "median": 255,
+        "standardDeviation": 13526.4,
+        "kurtosis": 9.54798,
+        "skewness": -3.26356,
+        "entropy": 0.18094
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.876,
+        "median": 255,
+        "standardDeviation": 10271.6,
+        "kurtosis": 19.3486,
+        "skewness": -4.48367,
+        "entropy": 0.179314
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 3,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "89f1050ab7b82ac5ecef69f1515f195ba82b93ea58cc5e666892dd99ccc1b3d9"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "289100B",
+    "userTime": "0.290u",
+    "elapsedTime": "0:01.274",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.809,
+        "median": 191.25,
+        "standardDeviation": 14354.8,
+        "kurtosis": -0.734747,
+        "skewness": -1.09674,
+        "entropy": 0.267542
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 30.7313,
+        "median": 0,
+        "standardDeviation": 21335.9,
+        "kurtosis": 3.43459,
+        "skewness": 2.33121,
+        "entropy": 0.530839
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.66,
+        "median": 255,
+        "standardDeviation": 12267.6,
+        "kurtosis": 11.8412,
+        "skewness": -3.55619,
+        "entropy": 0.187779
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 239.09,
+        "median": 255,
+        "standardDeviation": 13366.7,
+        "kurtosis": 10.3074,
+        "skewness": -3.37878,
+        "entropy": 0.176541
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.755,
+        "median": 255,
+        "standardDeviation": 10449.1,
+        "kurtosis": 18.8073,
+        "skewness": -4.43337,
+        "entropy": 0.175009
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 4,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "cc7eaecc0508e68827e488b034adc24b9d53b33f36aa33a9b602d942f7d2f535"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "256675B",
+    "userTime": "0.330u",
+    "elapsedTime": "0:01.309",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 241,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 316192,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.593,
+        "median": 191.25,
+        "standardDeviation": 15243.4,
+        "kurtosis": -0.736259,
+        "skewness": -1.09195,
+        "entropy": 0.298773
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 35.5235,
+        "median": 0,
+        "standardDeviation": 22692.8,
+        "kurtosis": 2.34007,
+        "skewness": 2.08328,
+        "entropy": 0.582423
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.708,
+        "median": 255,
+        "standardDeviation": 12971.4,
+        "kurtosis": 9.98857,
+        "skewness": -3.29624,
+        "entropy": 0.21601
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.914,
+        "median": 255,
+        "standardDeviation": 14173.9,
+        "kurtosis": 8.46763,
+        "skewness": -3.11233,
+        "entropy": 0.198896
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 243.227,
+        "median": 255,
+        "standardDeviation": 11135.4,
+        "kurtosis": 15.9087,
+        "skewness": -4.10489,
+        "entropy": 0.197763
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 5,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "20b23f790390de1c168bd1fc638470db7200668e18395487c56fb204032a38cf"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79048",
+    "pixelsPerSecond": "226410B",
+    "userTime": "0.370u",
+    "elapsedTime": "0:01.349",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 189.183,
+        "median": 191.25,
+        "standardDeviation": 15386.8,
+        "kurtosis": -0.684596,
+        "skewness": -1.11069,
+        "entropy": 0.322598
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 39.3731,
+        "median": 0,
+        "standardDeviation": 23680.3,
+        "kurtosis": 1.65898,
+        "skewness": 1.91284,
+        "entropy": 0.620753
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.008,
+        "median": 255,
+        "standardDeviation": 12977.1,
+        "kurtosis": 9.25248,
+        "skewness": -3.1817,
+        "entropy": 0.23185
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 235.596,
+        "median": 255,
+        "standardDeviation": 14273.9,
+        "kurtosis": 7.69939,
+        "skewness": -2.96496,
+        "entropy": 0.218555
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 243.755,
+        "median": 255,
+        "standardDeviation": 10616,
+        "kurtosis": 17.862,
+        "skewness": -4.30829,
+        "entropy": 0.219233
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 6,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "c368cb87c5f8eaed3aef565d58bbd5bb89e34e41daa72c35f00725ebd792d4c9"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "208588B",
+    "userTime": "0.410u",
+    "elapsedTime": "0:01.380",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.865,
+        "median": 191.25,
+        "standardDeviation": 15994.7,
+        "kurtosis": -0.766236,
+        "skewness": -1.07595,
+        "entropy": 0.316934
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 38.1716,
+        "median": 0,
+        "standardDeviation": 23381.1,
+        "kurtosis": 1.85628,
+        "skewness": 1.96374,
+        "entropy": 0.609071
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.584,
+        "median": 255,
+        "standardDeviation": 13782.1,
+        "kurtosis": 8.31936,
+        "skewness": -3.05279,
+        "entropy": 0.227926
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 234.705,
+        "median": 255,
+        "standardDeviation": 14998.5,
+        "kurtosis": 7.30223,
+        "skewness": -2.92402,
+        "entropy": 0.214989
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 241.998,
+        "median": 255,
+        "standardDeviation": 11817,
+        "kurtosis": 14.4097,
+        "skewness": -3.9385,
+        "entropy": 0.215749
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 7,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "11f788ba3b9320fc6ea5907b2ffe115378145dd8ee3c66bd85fc251a940192ab"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "192105B",
+    "userTime": "0.450u",
+    "elapsedTime": "0:01.413",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.796,
+        "median": 191.25,
+        "standardDeviation": 14146.7,
+        "kurtosis": -0.787805,
+        "skewness": -1.07225,
+        "entropy": 0.249191
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 27.2072,
+        "median": 0,
+        "standardDeviation": 20232.4,
+        "kurtosis": 4.49178,
+        "skewness": 2.54789,
+        "entropy": 0.489865
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.471,
+        "median": 255,
+        "standardDeviation": 12293.2,
+        "kurtosis": 11.2959,
+        "skewness": -3.47477,
+        "entropy": 0.16791
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.478,
+        "median": 255,
+        "standardDeviation": 13727.8,
+        "kurtosis": 9.68151,
+        "skewness": -3.2931,
+        "entropy": 0.168484
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 245.027,
+        "median": 255,
+        "standardDeviation": 10333.4,
+        "kurtosis": 20.0508,
+        "skewness": -4.5649,
+        "entropy": 0.170505
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 8,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "003426ebb755e3bf868a260b42995c7ea4c1ec36f5f7f5f9290a26900d557765"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "178219B",
+    "userTime": "0.470u",
+    "elapsedTime": "0:01.445",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.764,
+        "median": 191.25,
+        "standardDeviation": 14190.2,
+        "kurtosis": -0.803469,
+        "skewness": -1.0685,
+        "entropy": 0.243282
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 26.3751,
+        "median": 0,
+        "standardDeviation": 19957,
+        "kurtosis": 4.78338,
+        "skewness": 2.60448,
+        "entropy": 0.479781
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.899,
+        "median": 255,
+        "standardDeviation": 12411.3,
+        "kurtosis": 11.7944,
+        "skewness": -3.57158,
+        "entropy": 0.166017
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 239.002,
+        "median": 255,
+        "standardDeviation": 13734.8,
+        "kurtosis": 10.1387,
+        "skewness": -3.37333,
+        "entropy": 0.16362
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.779,
+        "median": 255,
+        "standardDeviation": 10657.9,
+        "kurtosis": 18.7463,
+        "skewness": -4.44509,
+        "entropy": 0.16371
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 9,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "734fbce72ea05535c6d14adbd47a7425cec622fc222a9be63f5e07b1afc557c0"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "166174B",
+    "userTime": "0.510u",
+    "elapsedTime": "0:01.477",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 186.919,
+        "median": 191.25,
+        "standardDeviation": 16059.6,
+        "kurtosis": -0.821909,
+        "skewness": -1.04879,
+        "entropy": 0.30251
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 36.2473,
+        "median": 0,
+        "standardDeviation": 22885,
+        "kurtosis": 2.20058,
+        "skewness": 2.04952,
+        "entropy": 0.589832
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.455,
+        "median": 255,
+        "standardDeviation": 13805,
+        "kurtosis": 7.79427,
+        "skewness": -2.9797,
+        "entropy": 0.210681
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 233.543,
+        "median": 255,
+        "standardDeviation": 15517.9,
+        "kurtosis": 6.39704,
+        "skewness": -2.77959,
+        "entropy": 0.206381
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 241.43,
+        "median": 255,
+        "standardDeviation": 12030.3,
+        "kurtosis": 12.9345,
+        "skewness": -3.76231,
+        "entropy": 0.203147
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 10,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "7de3fc9250062b00c173d5f7386e371f67c87173ac728a8a0507128c30a122cb"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "155551B",
+    "userTime": "0.550u",
+    "elapsedTime": "0:01.510",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 241,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 316192,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.468,
+        "median": 191.25,
+        "standardDeviation": 15788.1,
+        "kurtosis": -0.804125,
+        "skewness": -1.06124,
+        "entropy": 0.291721
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 35.0944,
+        "median": 0,
+        "standardDeviation": 22577.4,
+        "kurtosis": 2.42556,
+        "skewness": 2.10369,
+        "entropy": 0.577986
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 237.27,
+        "median": 255,
+        "standardDeviation": 13719,
+        "kurtosis": 8.51268,
+        "skewness": -3.09876,
+        "entropy": 0.203477
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 234.987,
+        "median": 255,
+        "standardDeviation": 15084.2,
+        "kurtosis": 7.14903,
+        "skewness": -2.91021,
+        "entropy": 0.194663
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 242.521,
+        "median": 255,
+        "standardDeviation": 11771.8,
+        "kurtosis": 14.8735,
+        "skewness": -4.00933,
+        "entropy": 0.190758
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 11,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "17ae1cc60834fb519028b1a19929a2dd5da21bf37540063f3e0dca88a36dee21"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79048",
+    "pixelsPerSecond": "145699B",
+    "userTime": "0.590u",
+    "elapsedTime": "0:01.542",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.785,
+        "median": 191.25,
+        "standardDeviation": 15885.2,
+        "kurtosis": -0.786599,
+        "skewness": -1.06798,
+        "entropy": 0.301973
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 36.7999,
+        "median": 0,
+        "standardDeviation": 23029.6,
+        "kurtosis": 2.0979,
+        "skewness": 2.02432,
+        "entropy": 0.595424
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 237.179,
+        "median": 255,
+        "standardDeviation": 13687.4,
+        "kurtosis": 8.31516,
+        "skewness": -3.06887,
+        "entropy": 0.214923
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 235.06,
+        "median": 255,
+        "standardDeviation": 15069,
+        "kurtosis": 7.15688,
+        "skewness": -2.91901,
+        "entropy": 0.199758
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 242.102,
+        "median": 255,
+        "standardDeviation": 11754.7,
+        "kurtosis": 13.8582,
+        "skewness": -3.8678,
+        "entropy": 0.197786
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 12,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "7b4c3d61803b2e82525fa1e5de5682460aa184fe1438bd655ea328f5c0294645"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "137967B",
+    "userTime": "0.620u",
+    "elapsedTime": "0:01.575",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.868,
+        "median": 191.25,
+        "standardDeviation": 15436.2,
+        "kurtosis": -0.708999,
+        "skewness": -1.10108,
+        "entropy": 0.312292
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 38.2551,
+        "median": 0,
+        "standardDeviation": 23402.1,
+        "kurtosis": 1.84215,
+        "skewness": 1.96013,
+        "entropy": 0.609891
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.077,
+        "median": 255,
+        "standardDeviation": 13070,
+        "kurtosis": 9.35138,
+        "skewness": -3.20458,
+        "entropy": 0.225387
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 235.915,
+        "median": 255,
+        "standardDeviation": 14301.1,
+        "kurtosis": 7.89374,
+        "skewness": -3.00479,
+        "entropy": 0.207551
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 243.223,
+        "median": 255,
+        "standardDeviation": 10971.6,
+        "kurtosis": 16.2854,
+        "skewness": -4.13569,
+        "entropy": 0.206338
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 13,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "7649c3baa453d5770b603700f00a990ce4a53963f010baea9ea73224ab9ecfba"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "130768B",
+    "userTime": "0.660u",
+    "elapsedTime": "0:01.606",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.409,
+        "median": 191.25,
+        "standardDeviation": 15519.1,
+        "kurtosis": -0.734805,
+        "skewness": -1.08964,
+        "entropy": 0.310541
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 37.3042,
+        "median": 0,
+        "standardDeviation": 23160.1,
+        "kurtosis": 2.00692,
+        "skewness": 2.00172,
+        "entropy": 0.60048
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 237.777,
+        "median": 255,
+        "standardDeviation": 13186.6,
+        "kurtosis": 9.12596,
+        "skewness": -3.16223,
+        "entropy": 0.222462
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 235.576,
+        "median": 255,
+        "standardDeviation": 14567.7,
+        "kurtosis": 7.72796,
+        "skewness": -2.98676,
+        "entropy": 0.209011
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 242.98,
+        "median": 255,
+        "standardDeviation": 11162.2,
+        "kurtosis": 15.9119,
+        "skewness": -4.09803,
+        "entropy": 0.21021
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 14,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "ce2adbb477415b975702a6d330db4968230142a965cc88d587d0a1c4cb220ac7"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "124378B",
+    "userTime": "0.700u",
+    "elapsedTime": "0:01.638",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.381,
+        "median": 191.25,
+        "standardDeviation": 16928.4,
+        "kurtosis": -0.797726,
+        "skewness": -1.05883,
+        "entropy": 0.336276
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 42.8716,
+        "median": 0,
+        "standardDeviation": 24508.7,
+        "kurtosis": 1.14999,
+        "skewness": 1.77482,
+        "entropy": 0.653395
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 234.502,
+        "median": 255,
+        "standardDeviation": 14723,
+        "kurtosis": 6.94967,
+        "skewness": -2.85955,
+        "entropy": 0.243061
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 232.485,
+        "median": 255,
+        "standardDeviation": 15675.8,
+        "kurtosis": 5.79286,
+        "skewness": -2.67904,
+        "entropy": 0.225387
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 239.667,
+        "median": 255,
+        "standardDeviation": 12806.3,
+        "kurtosis": 10.6997,
+        "skewness": -3.47165,
+        "entropy": 0.22326
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 15,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "5571a7b86053b2412e81c8a3c50678272c6694091a8b8aeeb90a7ef11a4e548e"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "116491B",
+    "userTime": "0.740u",
+    "elapsedTime": "0:01.681",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.415,
+        "median": 191.25,
+        "standardDeviation": 16278.4,
+        "kurtosis": -0.790888,
+        "skewness": -1.06107,
+        "entropy": 0.323575
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 39.4213,
+        "median": 0,
+        "standardDeviation": 23692.1,
+        "kurtosis": 1.65133,
+        "skewness": 1.91084,
+        "entropy": 0.621217
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 235.541,
+        "median": 255,
+        "standardDeviation": 14062.2,
+        "kurtosis": 7.16059,
+        "skewness": -2.88084,
+        "entropy": 0.232735
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 233.367,
+        "median": 255,
+        "standardDeviation": 15424.6,
+        "kurtosis": 6.38442,
+        "skewness": -2.77196,
+        "entropy": 0.22111
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 241.332,
+        "median": 255,
+        "standardDeviation": 11934.7,
+        "kurtosis": 12.5973,
+        "skewness": -3.71311,
+        "entropy": 0.219239
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 16,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "c2b9c480c27d037e9776dac2f3ebb4c1cc81c11e1db010880196320ca99bf07f"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "111202B",
+    "userTime": "0.780u",
+    "elapsedTime": "0:01.713",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.178,
+        "median": 191.25,
+        "standardDeviation": 15345.2,
+        "kurtosis": -0.827241,
+        "skewness": -1.05283,
+        "entropy": 0.272436
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.4799,
+        "median": 0,
+        "standardDeviation": 21558.1,
+        "kurtosis": 3.2411,
+        "skewness": 2.28934,
+        "entropy": 0.539198
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.23,
+        "median": 255,
+        "standardDeviation": 13465.4,
+        "kurtosis": 9.17238,
+        "skewness": -3.20603,
+        "entropy": 0.18985
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.355,
+        "median": 255,
+        "standardDeviation": 14747.2,
+        "kurtosis": 7.91759,
+        "skewness": -3.051,
+        "entropy": 0.181011
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 242.646,
+        "median": 255,
+        "standardDeviation": 11610.2,
+        "kurtosis": 14.4105,
+        "skewness": -3.94385,
+        "entropy": 0.179684
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 17,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "737aab16b828318d0e4f19d0f00f7ab582e1baeaa9cb5aa55c153160695e6d44"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "106296B",
+    "userTime": "0.820u",
+    "elapsedTime": "0:01.746",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.097,
+        "median": 191.25,
+        "standardDeviation": 14532,
+        "kurtosis": -0.780669,
+        "skewness": -1.07618,
+        "entropy": 0.26268
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 29.5106,
+        "median": 0,
+        "standardDeviation": 20964.7,
+        "kurtosis": 3.77168,
+        "skewness": 2.40242,
+        "entropy": 0.516954
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 239.951,
+        "median": 255,
+        "standardDeviation": 12709.6,
+        "kurtosis": 10.6508,
+        "skewness": -3.41331,
+        "entropy": 0.183649
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.529,
+        "median": 255,
+        "standardDeviation": 13766.9,
+        "kurtosis": 9.59057,
+        "skewness": -3.29148,
+        "entropy": 0.175128
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.399,
+        "median": 255,
+        "standardDeviation": 10686.9,
+        "kurtosis": 17.707,
+        "skewness": -4.31892,
+        "entropy": 0.174989
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 18,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "77ac2a9d31c04cbeb29328ca66f044ecc227eb1e2193591dc6d2331c1f9f728d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "101722B",
+    "userTime": "0.850u",
+    "elapsedTime": "0:01.780",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 215,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 282080,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 186.444,
+        "median": 191.25,
+        "standardDeviation": 15628,
+        "kurtosis": -0.856474,
+        "skewness": -1.03527,
+        "entropy": 0.277724
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.9979,
+        "median": 0,
+        "standardDeviation": 21709.6,
+        "kurtosis": 3.11258,
+        "skewness": 2.26109,
+        "entropy": 0.544916
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.958,
+        "median": 255,
+        "standardDeviation": 13708,
+        "kurtosis": 7.772,
+        "skewness": -2.98664,
+        "entropy": 0.188733
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 234.168,
+        "median": 255,
+        "standardDeviation": 15512.7,
+        "kurtosis": 6.69494,
+        "skewness": -2.83924,
+        "entropy": 0.188446
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 242.651,
+        "median": 255,
+        "standardDeviation": 11581.8,
+        "kurtosis": 14.5957,
+        "skewness": -3.97373,
+        "entropy": 0.188801
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "3x100",
+    "iterations": 0,
+    "scene": 19,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "ccb475fb950874f3e5e342d1f081e32852b9b043d1a66737b4c47202b9a18144"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "70520",
+    "pixelsPerSecond": "86549B",
+    "userTime": "0.900u",
+    "elapsedTime": "0:01.814",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 187.669,
+        "median": 191.25,
+        "standardDeviation": 14496.4,
+        "kurtosis": -0.808604,
+        "skewness": -1.06447,
+        "entropy": 0.253045
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 27.9075,
+        "median": 0,
+        "standardDeviation": 20459.6,
+        "kurtosis": 4.26004,
+        "skewness": 2.502,
+        "entropy": 0.498228
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.249,
+        "median": 255,
+        "standardDeviation": 12617.5,
+        "kurtosis": 10.7614,
+        "skewness": -3.43512,
+        "entropy": 0.175409
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.455,
+        "median": 255,
+        "standardDeviation": 14014.1,
+        "kurtosis": 9.63854,
+        "skewness": -3.3108,
+        "entropy": 0.168778
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.064,
+        "median": 255,
+        "standardDeviation": 10894.3,
+        "kurtosis": 16.3772,
+        "skewness": -4.17787,
+        "entropy": 0.169766
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 20,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "7dc711f0c1e7352d0472128774ae25b19d935e86890ae98aebfe1d6687b8dccd"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "93467B",
+    "userTime": "0.940u",
+    "elapsedTime": "0:01.849",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.124,
+        "median": 191.25,
+        "standardDeviation": 15067.7,
+        "kurtosis": -0.764771,
+        "skewness": -1.07938,
+        "entropy": 0.285842
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 33.3849,
+        "median": 0,
+        "standardDeviation": 22106,
+        "kurtosis": 2.78868,
+        "skewness": 2.1883,
+        "entropy": 0.559959
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.805,
+        "median": 255,
+        "standardDeviation": 12927,
+        "kurtosis": 9.68591,
+        "skewness": -3.26382,
+        "entropy": 0.200713
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.599,
+        "median": 255,
+        "standardDeviation": 14331.3,
+        "kurtosis": 8.23933,
+        "skewness": -3.07571,
+        "entropy": 0.19296
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 243.708,
+        "median": 255,
+        "standardDeviation": 10906.6,
+        "kurtosis": 16.5112,
+        "skewness": -4.18422,
+        "entropy": 0.189734
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 21,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "782c1fdcdc8185c68a3e51414fa399b184f6fc91a9f24b5a5ce779f753ca4da1"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "89879B",
+    "userTime": "0.970u",
+    "elapsedTime": "0:01.883",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.445,
+        "median": 191.25,
+        "standardDeviation": 14264.6,
+        "kurtosis": -0.753661,
+        "skewness": -1.08722,
+        "entropy": 0.261048
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 29.5877,
+        "median": 0,
+        "standardDeviation": 20988.4,
+        "kurtosis": 3.74955,
+        "skewness": 2.39781,
+        "entropy": 0.517841
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.512,
+        "median": 255,
+        "standardDeviation": 12253.7,
+        "kurtosis": 11.5207,
+        "skewness": -3.50483,
+        "entropy": 0.181157
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 238.644,
+        "median": 255,
+        "standardDeviation": 13528.5,
+        "kurtosis": 9.66176,
+        "skewness": -3.28783,
+        "entropy": 0.173392
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 245.037,
+        "median": 255,
+        "standardDeviation": 10287.8,
+        "kurtosis": 19.4701,
+        "skewness": -4.50535,
+        "entropy": 0.171802
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 22,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "43adcdf4c8f1cc1f9bf0ef0e99647f42927e560e8b68530e4ab30a9fa12eb734"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "86580B",
+    "userTime": "1.010u",
+    "elapsedTime": "0:01.916",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/unipepecorn.gif",
+    "baseName": "unipepecorn.gif",
+    "format": "GIF",
+    "formatDescription": "GIF",
+    "mimeType": "image/gif",
+    "class": "PseudoClass",
+    "geometry": {
+      "width": 328,
+      "height": 242,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "PaletteAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 317504,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 188.659,
+        "median": 191.25,
+        "standardDeviation": 14187.5,
+        "kurtosis": -0.746202,
+        "skewness": -1.0924,
+        "entropy": 0.259098
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 255,
+        "mean": 29.3178,
+        "median": 0,
+        "standardDeviation": 20905,
+        "kurtosis": 3.82752,
+        "skewness": 2.41402,
+        "entropy": 0.514733
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 240.98,
+        "median": 255,
+        "standardDeviation": 12171.7,
+        "kurtosis": 12.134,
+        "skewness": -3.59765,
+        "entropy": 0.180528
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 239.37,
+        "median": 255,
+        "standardDeviation": 13297,
+        "kurtosis": 10.5214,
+        "skewness": -3.41094,
+        "entropy": 0.171468
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 244.97,
+        "median": 255,
+        "standardDeviation": 10376.3,
+        "kurtosis": 19.226,
+        "skewness": -4.48017,
+        "entropy": 0.169665
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "colormapEntries": 128,
+    "colormap": [
+      "#F228D9FF","#CC09ACFF","#EFEEE8FF","#8A63E5FF","#DD432EFF",
+      "#5D4DE1FF","#BAC8DFFF","#D65BEEFF","#448706FF","#909091FF",
+      "#E8E7E1FF","#DBCDB6FF","#B2B3B1FF","#494847FF","#602467FF",
+      "#747375FF","#343431FF","#3A7702FF","#6D9AE7FF","#62DFF8FF",
+      "#8F56A0FF","#0E0511FF","#D7DCEDFF","#EB4DB6FF","#FEF64FFF",
+      "#497419FF","#DAAEEFFF","#DEDEDCFF","#A78EEEFF","#F7EFEAFF",
+      "#8188EDFF","#EFF7EDFF","#ECEEFAFF","#CDD6E8FF","#9C077FFF",
+      "#C8CEE7FF","#DCAE9EFF","#25022BFF","#D6EBF3FF","#EECFF7FF",
+      "#CACAC5FF","#ADB2F0FF","#B5BCCCFF","#62D352FF","#F3D9CCFF",
+      "#50A6A9FF","#F3F7FCFF","#2F2146FF","#4FAD68FF","#86B6EFFF",
+      "#D288EFFF","#898781FF","#C6CEDDFF","#CDF549FF","#C4EFD2FF",
+      "#D7D6CFFF","#E8B1F0FF","#4A073FFF","#A3DCA0FF","#A8A69DFF",
+      "#141021FF","#AC9031FF","#C7C5F9FF","#F2EFDCFF","#F8EEFEFF",
+      "#EB8165FF","#D97FCAFF","#A1A5B6FF","#194180FF","#CA9A35FF",
+      "#6D4084FF","#999BA0FF","#9FDA65FF","#63635DFF","#DDDBFBFF",
+      "#544079FF","#9F9B93FF","#D6D344FF","#FDF876FF","#F8F7DDFF",
+      "#489124FF","#C8BBC3FF","#CFD6DCFF","#EA86D6FF","#A183A7FF",
+      "#E0C8F0FF","#5ECD3CFF","#2C8EE3FF","#0C2030FF","#D5CCF9FF",
+      "#1B1B1AFF","#173103FF","#428418FF","#ECDC49FF","#EEEBC9FF",
+      "#B484D0FF","#8440CEFF","#FBFABEFF","#CAD8CBFF","#53667BFF",
+      "#97A895FF","#8B83D3FF","#5D5956FF","#D7CECBFF","#4FAE39FF",
+      "#BBE0F7FF","#63CDA9FF","#3B8D68FF","#E79AE9FF","#20140EFF",
+      "#AEC33FFF","#6F9329FF","#3E8E94FF","#87BAC5FF","#F8EEC4FF",
+      "#D8F569FF","#D1CDD7FF","#80AB2DFF","#D0CA7CFF","#F3BFC2FF",
+      "#D1C13EFF","#F0E078FF","#E5F8DCFF","#F8F7EFFF","#FEFFFFFF",
+      "#FEFFF6FF","#000000FF","#FFFFFF00"
+    ],
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF00",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#FFFFFF00",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 400,
+      "height": 560,
+      "x": 36,
+      "y": 68
+    },
+    "originGeometry": "+36+68",
+    "dispose": "None",
+    "delay": "7x100",
+    "iterations": 0,
+    "scene": 23,
+    "scenes": 24,
+    "compression": "LZW",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-03-13T20:59:13+00:00",
+      "date:modify": "2022-03-13T20:59:13+00:00",
+      "signature": "794dd64bcebf851655f3ec5d6624cf984629e66ed1873cdb6636af9eb1fc297b"
+    },
+    "tainted": false,
+    "filesize": "313608B",
+    "numberPixels": "79376",
+    "pixelsPerSecond": "83380B",
+    "userTime": "1.040u",
+    "elapsedTime": "0:01.951",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
